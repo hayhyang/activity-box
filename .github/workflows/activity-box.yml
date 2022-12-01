@@ -14,5 +14,5 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_USERNAME: Mihyang, Seo
-          GIST_ID: da9437da298a784dda3a7dfad999ceb3
+          GH_USERNAME: hayhyang
+          GIST_ID: 821c9549c549541fea459e0f39834b19
